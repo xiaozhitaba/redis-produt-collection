@@ -17,3 +17,5 @@ redis 衍生产品收集
 https://www.slideshare.net/RedisLabs/presentations
 
 redislab https://redislabs.com/
+
+作者博客：http://antirez.com/latest/0
